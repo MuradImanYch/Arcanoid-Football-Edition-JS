@@ -1,0 +1,8 @@
+body { background: silver; display: flex;}
+			#game { width: 800px; height: 600px; margin: auto;
+				background-image: url('grass.jpg'); box-shadow: 0 0 10px #000; 
+				position: relative; }
+			#ball { width: 30px; height: 30px; border-radius: 20px;
+				background: red; border: 2px solid yellow; position: absolute; }
+			#bar { width: 100px; height: 35px; border-radius: 8px; position: absolute; top: 565px; }
+			#brick1{position: absolute; height: 80px; width: 60px; left: 740; top: 50;}
